@@ -5,4 +5,4 @@
 ## Group Project
 
 ## Individual Projects
-![randomword]()
+![randomword](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomword.png?raw=true)
