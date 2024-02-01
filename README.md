@@ -11,3 +11,5 @@ Random Word Generator with 20 prefixes, suffixes, and roots. Also generates a de
 ![randomword](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomword.png?raw=true)
 ### Random Number
 ![randomnumber](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomnumber.png?raw=true)
+### Pig Latin
+![pigLatin](https://github.com/Ethankest/programmingportfolio/blob/main/images/pigLatin.png?raw=true)
