@@ -1,10 +1,10 @@
 # Ethan Stoffer | Programming Portfolio
+Skyline High School Computer Programming 1
+## USOE Tech Certifications
 
-## Certification
+## Group Project (2023-2024)
 
-## Group Project
-
-## Individual Projects
+## Individual Projects (2023-2024)
 
 ### Random Word
 Random Word Generator with 20 prefixes, suffixes, and roots. Also generates a definition based on the root, prefix, and suffix of the word.
