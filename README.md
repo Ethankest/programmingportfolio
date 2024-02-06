@@ -13,6 +13,7 @@ Random Word Generator with 20 prefixes, suffixes, and roots. Also generates a de
 Number guessing game with full customization, color, and replayability.
 ![randomnumber](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomnumber.png?raw=true)
 ### Pig Latin
+Text converter to Pig Latin.
 ![pigLatin](https://github.com/Ethankest/programmingportfolio/blob/main/images/pigLatin.png?raw=true)
 ### Full Name
 ![fullName](https://github.com/Ethankest/programmingportfolio/blob/main/images/fullName.png?raw=true)
