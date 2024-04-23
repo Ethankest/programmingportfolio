@@ -7,6 +7,7 @@ Skyline High School Computer Programming 1
 ![Rock](https://github.com/Ethankest/programmingportfolio/blob/main/images/Rock-1.png.png)
 ![PlatinumDrill](https://github.com/Ethankest/programmingportfolio/blob/main/images/PlatinumDrill-1.png.png)
 ![VikingMiner](https://github.com/Ethankest/programmingportfolio/blob/main/images/Viking%20Miner.png)
+![planet](https://github.com/Ethankest/programmingportfolio/blob/main/images/d1e34102-d1a4-11ee-a67d-6190bbd18d81-1.png.png)
 ## Individual Projects (2023-2024)
 
 ### Random Word
