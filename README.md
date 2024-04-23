@@ -3,8 +3,7 @@ Skyline High School Computer Programming 1
 ## USOE Tech Certifications
 
 ## Group Project (2023-2024)
-![Startscreen]
-![]
+![Startscreen](https://github.com/Ethankest/programmingportfolio/blob/main/images/Start.png)
 ![]
 ![stonedrill](https://github.com/Ethankest/programmingportfolio/blob/main/images/Stone%20Drill-1.png%20(2).png)
 ![Rock](https://github.com/Ethankest/programmingportfolio/blob/main/images/Rock-1.png.png)
