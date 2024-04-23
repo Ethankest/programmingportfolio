@@ -3,7 +3,7 @@ Skyline High School Computer Programming 1
 ## USOE Tech Certifications
 
 ## Group Project (2023-2024)
-
+![PlatinumDrill](
 ## Individual Projects (2023-2024)
 
 ### Random Word
