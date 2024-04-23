@@ -3,7 +3,7 @@ Skyline High School Computer Programming 1
 ## USOE Tech Certifications
 
 ## Group Project (2023-2024)
-![PlatinumDrill](
+![PlatinumDrill](https://github.com/Ethankest/programmingportfolio/blob/main/images/PlatinumDrill-1.png.png)
 ## Individual Projects (2023-2024)
 
 ### Random Word
