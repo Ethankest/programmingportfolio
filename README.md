@@ -12,7 +12,8 @@ Skyline High School Computer Programming 1
 ![planet](https://github.com/Ethankest/programmingportfolio/blob/main/images/d1e34102-d1a4-11ee-a67d-6190bbd18d81-1.png.png)
 ![Tnt](https://github.com/Ethankest/programmingportfolio/blob/main/images/TNT-1.png.png)
 ## Individual Projects (2023-2024)
-
+###### Gameplay
+![INDGameplay](https://github.com/Ethankest/programmingportfolio/blob/main/images/Gameplay.png)
 ### Random Word
 Random Word Generator with 20 prefixes, suffixes, and roots. Also generates a definition based on the root, prefix, and suffix of the word.
 ![randomword](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomword.png?raw=true)
