@@ -13,18 +13,18 @@ Skyline High School Computer Programming 1
 ![Tnt](https://github.com/Ethankest/programmingportfolio/blob/main/images/TNT-1.png.png)
 ## Individual Projects (2023-2024)
 The main story of the game is centered around you waking up inside of a dimly lit room and you must find a way to escape. There are currently ten endings to the game with four of them being secret endings. There may also be an extra very secret ending.
-###### Gameplay/Startscreen
+### Gameplay/Startscreen
 ![INDGameplay](https://github.com/Ethankest/programmingportfolio/blob/main/images/Gameplay.png)
 ### Random Word
 Random Word Generator with 20 prefixes, suffixes, and roots. Also generates a definition based on the root, prefix, and suffix of the word.
 ![randomword](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomword.png?raw=true)
-### Number Guessing Game
+## Number Guessing Game
 Number guessing game with full customization, color, and replayability.
 ![randomnumber](https://github.com/Ethankest/programmingportfolio/blob/main/images/randomnumber.png?raw=true)
-### Pig Latin
+## Pig Latin
 Text converter to Pig Latin.
 ![pigLatin](https://github.com/Ethankest/programmingportfolio/blob/main/images/pigLatin.png?raw=true)
-### Full Name
+## Full Name
 ![fullName](https://github.com/Ethankest/programmingportfolio/blob/main/images/fullName.png?raw=true)
-### Bottles of Beer on the Wall
+## Bottles of Beer on the Wall
 ![Bottles](https://github.com/Ethankest/programmingportfolio/blob/main/images/Bottles.png?raw=true)
