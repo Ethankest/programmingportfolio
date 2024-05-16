@@ -12,7 +12,7 @@ Skyline High School Computer Programming 1
 ![planet](https://github.com/Ethankest/programmingportfolio/blob/main/images/d1e34102-d1a4-11ee-a67d-6190bbd18d81-1.png.png)
 ![Tnt](https://github.com/Ethankest/programmingportfolio/blob/main/images/TNT-1.png.png)
 ## Individual Projects (2023-2024)
-There are currently nine endings to the game with four of them being secret endings.
+There are currently ten endings to the game with four of them being secret endings. There may also be an extra very secret ending.
 ###### Gameplay/Startscreen
 ![INDGameplay](https://github.com/Ethankest/programmingportfolio/blob/main/images/Gameplay.png)
 ### Random Word
